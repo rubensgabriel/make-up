@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&display=swap');
+
+body{
+    background-image: url(imagens/fundo.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+div{
+    width: 500px;
+    background-color: aliceblue;
+    margin: auto;
+    border-radius: 5px;
+    text-align: center;padding: 10px;
+}
+img{
+    border: 1px solid rgb(226, 104, 124);
+    border-radius: 150px;
+}
+a{
+    text-decoration: none;
+    background-color: rgba(238, 182, 191, 0.644);
+    color: black;
+    padding: 8px 55px;
+    border-radius: 2px;
+    font-family: Montserrat
+}
+a:hover{
+    border: 1px solid rgb(247, 154, 169);
+}
