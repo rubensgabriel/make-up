@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&display=swap');
 
 body{
-    background-image: url(imagens/plano\ de\ fundo.jpg);
+    background-image: url(imagens/1.webp);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -13,10 +13,10 @@ div{
     margin: auto;
     border-radius: 5px;
     text-align: center;padding: 10px;
-    background-image: url(imagens/download.jpg);
+    background-image: url(imagens/fundo1.png);
     background-position: center;
     background-size: cover;
-    height: 480px;
+    height: 500px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.199);
     
 }
@@ -29,7 +29,7 @@ p{
 }
 a{
     text-decoration: none;
-    background-color: rgba(167, 166, 166, 0.788);
+    background-color: rgba(167, 166, 166, 0.822);
     color: black;
     padding: 8px 25px;
     border-radius: 2px;
