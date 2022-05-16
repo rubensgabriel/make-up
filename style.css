@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&display=swap');
 
 body{
-    background-image: url(imagens/fundo.jpg);
+    background-image: url(imagens/plano\ de\ fundo.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
     font-family: Montserrat;
 }
 div{
-    width: 350px;
+    width: 330px;
     background-color: aliceblue;
     margin: auto;
     border-radius: 5px;
