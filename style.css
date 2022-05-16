@@ -7,24 +7,32 @@ body{
     background-size: cover;
 }
 div{
-    width: 500px;
+    width: 350px;
     background-color: aliceblue;
     margin: auto;
     border-radius: 5px;
     text-align: center;padding: 10px;
+    background-image: url(imagens/Moldura\ dourada\ em\ fundo\ de\ mármore\ _\ Vetor\ Grátis.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
 }
 img{
-    border: 1px solid rgb(226, 104, 124);
+    border: 1px solid rgb(226, 197, 104);
     border-radius: 150px;
+    margin-bottom: 15px;
+    margin-top: 15px;
 }
 a{
     text-decoration: none;
-    background-color: rgba(238, 182, 191, 0.644);
-    color: black;
-    padding: 8px 55px;
+    background-color: rgba(187, 164, 60, 0.589);
+    color: rgb(51, 45, 45);
+    padding: 8px 25px;
     border-radius: 2px;
-    font-family: Montserrat
+    font-family: Montserrat;
 }
 a:hover{
-    border: 1px solid rgb(247, 154, 169);
+    border: 1px solid rgb(180, 147, 55);
+    font-weight: 500;
+    transition-duration: 0.4s;
 }
