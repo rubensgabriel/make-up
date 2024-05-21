@@ -8,10 +8,12 @@ body{
     background-size: cover;
     font-family: Montserrat;
 }
-div{
-    width: 330px;
+
+.cartao{
+    max-width: 330px;
+    min-width: 280px;
     background-color: aliceblue;
-    margin: auto;
+    margin: 10px auto;
     border-radius: 5px;
     text-align: center;
     padding: 10px;
@@ -33,8 +35,10 @@ img{
     box-shadow: 5px 8px 10px rgba(0, 0, 0, 0.178);
 }
 
-p{
-    margin-bottom: 30px;
+.botoes {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
 }
 
 a{
