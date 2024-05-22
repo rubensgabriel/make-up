@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&display=swap');
 
 body{
-    background: url(imagens/fundo4.jpg);
+    background: url(../imagens/fundo4.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -17,20 +17,17 @@ body{
     border-radius: 5px;
     text-align: center;
     padding: 10px;
-    background: url(imagens/fundo\ rosa.jpeg);
+    background: url(../imagens/fundo\ rosa.jpeg);
     background-position: center;
     background-size: 115%;
     height: 500px;
     box-shadow: 5px 7px 9px rgba(0, 0, 0, 0.199);
 }
 
-img{
-    border-radius: 150px;
-    margin-bottom: 10px;
-}
-
 .perfil {
+    border-radius: 150px;
     border: 2px solid #f8d365;
+    margin-bottom: 10px;
     padding: 3px;
     box-shadow: 5px 8px 10px rgba(0, 0, 0, 0.178);
 }
